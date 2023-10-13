@@ -90,6 +90,17 @@ h1 {
     width: 30px;
 }
 
+.post:hover{
+    color: white;
+    background-color: #36bbce;
+    box-shadow: 10px 10px 20px 20px blueviolet;
+    transform: scale(0.8);
+    transition: 3s linear;
+
+
+
+}
+
 footer {
     background-color: white;
     display: flex;
